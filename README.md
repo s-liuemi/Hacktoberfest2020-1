@@ -65,7 +65,6 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 3. Set the file name with `Your-Full-Name.md` and insert your short profile with the following text
 ```
 ### Emily Liu
-- Photo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Stick_Figure.svg/255px-Stick_Figure.svg.png
 - Location: Seattle, US
 - Bio: Student that's trying to do open source but is failing dramatically
 - Github: https://github.com/s-liuemi
